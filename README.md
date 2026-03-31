@@ -1,3 +1,12 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://inventory-management-backend-2-2h44.onrender.com)
+[![API Docs](https://img.shields.io/badge/API-Docs-blue)](https://inventory-management-backend-2-2h44.onrender.com/docs)
+[![Frontend](https://img.shields.io/badge/Frontend-Live-purple)](https://inventory-management-frontend-ivory.vercel.app)
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green)](https://fastapi.tiangolo.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Neon.tech-blue)](https://neon.tech)
+[![Render](https://img.shields.io/badge/Render-Deployed-black)](https://render.com)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
 # Inventory Management System - Backend API
 
 A RESTful API for inventory management built with FastAPI and PostgreSQL. This backend powers a complete inventory system with real-time analytics, stock tracking, and transaction management.
