@@ -40,7 +40,7 @@ A RESTful API for inventory management built with FastAPI and PostgreSQL. This b
 | GET | `/api/analytics/summary` | Get inventory analytics |
 | GET | `/api/analytics/top-products` | Get most valuable products |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **FastAPI** - Modern Python web framework
 - **PostgreSQL** - Relational database (hosted on Neon.tech)
@@ -49,14 +49,14 @@ A RESTful API for inventory management built with FastAPI and PostgreSQL. This b
 - **Uvicorn** - ASGI server
 - **Render** - Cloud deployment
 
-## 📈 Sample Data
+## Sample Data
 
 The system currently manages:
 - **3+ products** with total inventory value of **$43,998.90**
 - **Transaction tracking** for all stock movements
 - **Real-time analytics** for inventory valuation
 
-## 🏃‍♂️ Local Development
+## Local Development
 
 ### Prerequisites
 - Python 3.11 or higher
