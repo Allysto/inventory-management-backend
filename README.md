@@ -52,7 +52,7 @@ A RESTful API for inventory management built with FastAPI and PostgreSQL. This b
 ## Sample Data
 
 The system currently manages:
-- **3+ products** with total inventory value of **$43,998.90**
+- **3+ products** with total inventory value of **R43,998.90**
 - **Transaction tracking** for all stock movements
 - **Real-time analytics** for inventory valuation
 
