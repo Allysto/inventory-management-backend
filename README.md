@@ -17,16 +17,16 @@ A RESTful API for inventory management built with FastAPI and PostgreSQL. This b
 - **API Documentation**: https://inventory-management-backend-2-2h44.onrender.com/docs
 - **Frontend Demo**: https://inventory-management-frontend-ivory.vercel.app
 
-## ✨ Features
+##  Features
 
-- ✅ **Product Management** - Create, read, update, and delete products
-- ✅ **Stock Transactions** - Record inventory IN/OUT movements
-- ✅ **Real-time Analytics** - Automatic inventory valuation and low stock alerts
-- ✅ **Transaction History** - Complete audit trail of all stock movements
-- ✅ **RESTful API** - Clean, well-documented endpoints
-- ✅ **PostgreSQL Database** - Reliable data persistence with SQLAlchemy ORM
+-  **Product Management** - Create, read, update, and delete products
+-  **Stock Transactions** - Record inventory IN/OUT movements
+-  **Real-time Analytics** - Automatic inventory valuation and low stock alerts
+-  **Transaction History** - Complete audit trail of all stock movements
+-  **RESTful API** - Clean, well-documented endpoints
+-  **PostgreSQL Database** - Reliable data persistence with SQLAlchemy ORM
 
-## 📊 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
